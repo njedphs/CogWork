@@ -1,2 +1,2 @@
 This is a test again.
-I have changed the file again. Different.
+I have changed the file again. Different.ok.
